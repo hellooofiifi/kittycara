@@ -50,7 +50,7 @@ Contributions are encouraged! Whether it's bug fixes, new features, or improveme
 
 - Clone :
 
-        https://github.com/bambadij/kittycaraApp.git
+        https://github.com/hellooofiifi/kittycaraAI/tree/main
         
         cd kittycaraApp
 - Create .env :
