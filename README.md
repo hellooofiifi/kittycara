@@ -1,10 +1,14 @@
 # kittyCara AI
-KittycaraAI is a pediatric and adolescent gynecological diagonistic descision support assistant helping adolescent girls and their caretakers diagnose possible menstrual disorders and gain insights and advice. It uses OpenAI API to generate a list of possible diseases from a description of symptoms provided by the user and provides preliminary insights and advice on what to do next via simplifying complex medical information into easy-to-understand language, making  gynecological care more accessible to adolescent girls, especially those in underserved communities.
+KittycaraAI is a pediatric and adolescent gynecological diagonistic descision support assistant helping adolescent girls and their caretakers diagnose possible menstrual disorders and gain insights and advice. 
+It uses OpenAI API to generate a list of possible diseases from a description of symptoms provided by the user and provides preliminary insights and advice on what to do next via simplifying complex medical information into easy-to-understand language, making  gynecological care more accessible to adolescent girls, especially those in underserved communities.
 
 
 Features
+
 .**User-friendly interface**: The app is designed as a friendly pet cat to create a warm, endearing and engaging experience for adolescent users.
+
 .**AI-powered diagnosis**: Utilizes the power of OpenAI's API to analyze symptoms, suggest possible medical conditions and provide advice.
+
 . **Simplifies Medical Terminology**: transforms complex medical jargon into plain explanations aiming to help adolescent girls understand complex medical terms easily and accurately.
 
 
@@ -48,4 +52,5 @@ Using the App
 Once the app is running, users can interact with Kittycara, the virtual pet cat, by entering symptoms related to their menstrual cycle. Based on the input, the AI will provide diagnostic insights and suggestions for potential disorders in easy-to-understand language.
 
 Contributing
+
 If you wish to contribute, please submit a pull request or create an issue to discuss the changes you'd like to make.
