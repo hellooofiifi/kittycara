@@ -5,11 +5,11 @@ It uses OpenAI API to generate a list of possible diseases from a description of
 
 Features
 
-.**User-friendly interface**: The app is designed as a friendly pet cat to create a warm, endearing and engaging experience for adolescent users.
+**User-friendly interface**: The app is designed as a friendly pet cat to create a warm, endearing and engaging experience for adolescent users.
 
-.**AI-powered diagnosis**: Utilizes the power of OpenAI's API to analyze symptoms, suggest possible medical conditions and provide advice.
+**AI-powered diagnosis**: Utilizes the power of OpenAI's API to analyze symptoms, suggest possible medical conditions and provide advice.
 
-. **Simplifies Medical Terminology**: transforms complex medical jargon into plain explanations aiming to help adolescent girls understand complex medical terms easily and accurately.
+**Simplifies Medical Terminology**: transforms complex medical jargon into plain explanations aiming to help adolescent girls understand complex medical terms easily and accurately.
 
 
 # How to Use This Repository:
