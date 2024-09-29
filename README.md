@@ -1,5 +1,5 @@
 # kittyCara AI
-Kittycara AI is a mobile app designed to assist adolescent girls and their caretakers in diagnosing potential menstrual disorders based on symptoms they provide. The app utilizes OpenAI API and features a friendly pet cat interface to make the experience approachable and user-friendly. This project is developed as part of the **AFROTECHTM Hackathon**, where the goal is to address healthcare challenges faced by adolescent girls in Sub-Saharan Africa.
+Kittycara AI is a mobile app designed to assist adolescent girls and their caretakers in diagnosing potential menstrual disorders based on symptoms they provide. The app utilizes OpenAI API and features a friendly pet cat interface to make the experience approachable and user-friendly.
 
 Features
 .**AI-Powered Symptom Diagnosis**: Kittycara AI leverages the OpenAI API to assess menstrual patterns and symptoms, offering insights into potential disorders.
