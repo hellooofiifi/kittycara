@@ -48,5 +48,6 @@ Contributions are encouraged! Whether it's bug fixes, new features, or improveme
         npm install or yarn
         npx expo start
 
-Using the App
+# Using the App
+
 Once the app is running, users can interact with Kittycara, the virtual pet cat, by entering symptoms related to their menstrual cycle. Based on the input, the AI will provide diagnostic insights and suggestions for potential disorders.
