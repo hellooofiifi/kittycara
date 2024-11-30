@@ -37,7 +37,7 @@ Contributions are encouraged! Whether it's bug fixes, new features, or improveme
 
         https://github.com/hellooofiifi/kittycara/tree/main
         
-        cd kittycaraApp
+        cd kittycara
 - Create .env :
 
         OPENAI_API_KEY=your_openai_api_key
