@@ -35,7 +35,7 @@ Contributions are encouraged! Whether it's bug fixes, new features, or improveme
 
 - Clone :
 
-        https://github.com/hellooofiifi/kittycaraAI/tree/main
+        https://github.com/hellooofiifi/kittycara/tree/main
         
         cd kittycaraApp
 - Create .env :
